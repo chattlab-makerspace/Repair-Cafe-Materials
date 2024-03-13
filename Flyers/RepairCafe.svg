@@ -14,10 +14,7 @@
    id="defs1"><style
      type="text/css"
      id="style1">
-        @font-face {
-          font-family: 'Nova Square';
-          src: url('https://fonts.googleapis.com/css2?family=Nova+Square') format('opentype');
-        }</style></defs>
+        @import url('https://fonts.googleapis.com/css2?family=Nova+Square') format('opentype')</style></defs>
    <g
    id="g1"
    transform="translate(-2970.4292,-211.09964)"><g
