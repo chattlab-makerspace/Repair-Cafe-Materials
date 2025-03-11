@@ -22,9 +22,9 @@
    inkscape:pageopacity="0"
    inkscape:pagecheckerboard="0"
    inkscape:deskcolor="#505050"
-   inkscape:zoom="0.17439368"
-   inkscape:cx="837.18632"
-   inkscape:cy="685.23127"
+   inkscape:zoom="0.24662991"
+   inkscape:cx="2276.6906"
+   inkscape:cy="744.0298"
    inkscape:window-width="1920"
    inkscape:window-height="1011"
    inkscape:window-x="0"
@@ -55,7 +55,10 @@
      id="page50"
      margin="0"
      bleed="0"
-     inkscape:label="Base Flyer" /><inkscape:page
+     inkscape:label="Base Flyer"
+     inkscape:export-filename="Base  Flyer.pdf"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300" /><inkscape:page
      x="1398.8564"
      y="-0.084112965"
      width="1056"
@@ -146,7 +149,7 @@
        transform="translate(-302.88609,140.89378)"><tspan
          x="1368.2208"
          y="-410.30661"
-         id="tspan1">Questions or interested in Volunteering?		Email: repair@everyturn.net</tspan></text><text
+         id="tspan3">Questions or interested in Volunteering?		Email: repair@everyturn.net</tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:51.174px;font-family:Chatype;-inkscape-font-specification:'Chatype, Medium';font-variant-ligatures:no-common-ligatures;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#1b1b1c;fill-opacity:1;stroke-width:1.19939"
        x="1055.0997"
@@ -257,7 +260,7 @@
        transform="translate(-313.77524,56.439268)"><tspan
          x="1368.2208"
          y="-410.30661"
-         id="tspan2">Questions or interested in Volunteering?		Email: repair@everyturn.net</tspan></text><text
+         id="tspan4">Questions or interested in Volunteering?		Email: repair@everyturn.net</tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:51.174px;font-family:Chatype;-inkscape-font-specification:'Chatype, Medium';font-variant-ligatures:no-common-ligatures;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#1b1b1c;fill-opacity:1;stroke-width:1.19939"
        x="1055.577"
